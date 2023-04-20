@@ -622,7 +622,7 @@ strong {
   CUSTOM BLOCK              
 -----------------------------------------*/
 .custom-block {
-  background-image: url('../images/businessman-sitting-by-table-cafe.jpg');
+  background-image: url('../images/DeFlorEmFlor_Orquideas.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -630,7 +630,24 @@ strong {
   position: relative;
   overflow: hidden;
 }
-
+.custom-block2 {
+  background-image: url('../images/DeFlorEmFlor_FlowerBox.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: var(--border-radius-medium);
+  position: relative;
+  overflow: hidden;
+}
+.custom-block3 {
+  background-image: url('../images/DeFlorEmFlor_ConeDeFlores.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: var(--border-radius-medium);
+  position: relative;
+  overflow: hidden;
+}
 .custom-block::after {
   content: "";
   position: absolute;
