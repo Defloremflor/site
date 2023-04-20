@@ -1,0 +1,499 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>De Flor em Flor </title>
+
+        <!-- CSS FILES -->        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+        <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <link href="css/bootstrap-icons.css" rel="stylesheet">
+
+        <link href="css/templatemo-ebook-landing.css" rel="stylesheet">
+<!--
+TemplateMo 588 ebook landing
+https://templatemo.com/tm-588-ebook-landing
+-->
+    </head>
+    
+    <body>
+
+        <main>
+
+            <nav class="navbar navbar-expand-lg">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html">
+                        <i class=></i>
+                        <span>De Flor em Flor</span>
+                    </a>
+
+                    <div class="d-lg-none ms-auto me-3">
+                        <a href="#" class="btn custom-btn custom-border-btn btn-naira btn-inverted">
+                            <i class="btn-icon bi-cloud-download"></i>
+                            <span>Download</span><!-- duplicated another one below for mobile -->
+                        </a>
+                    </div>
+    
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+    
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav ms-lg-auto me-lg-4">
+                            <li class="nav-item">
+                                <a class="nav-link click-scroll" href="#section_1">Home</a>
+                            </li>
+    
+                            <li class="nav-item">
+                                <a class="nav-link click-scroll" href="#section_2">Nossos Produtos&nbsp;</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link click-scroll" href="#section_3">Quem somos</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link click-scroll" href="#section_4">Presentes</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link click-scroll" href="#section_5">Contato</a>
+                            </li>
+                        </ul>
+
+                        <div class="d-none d-lg-block">
+                            <a href="#" class="btn custom-btn custom-border-btn btn-naira btn-inverted">
+                                <i class="btn-icon bi-cloud-download"></i>
+                                <span>Download</span><!-- duplicated above one for mobile -->
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+            
+
+            <section class="hero-section d-flex justify-content-center align-items-center" id="section_1">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-6 col-12 mb-5 pb-5 pb-lg-0 mb-lg-0">
+
+                            <h6>O afeto floresce aqui</h6>
+
+                            <h1 class="text-white mb-4">Da nossa família para a sua</h1>
+
+                            <a href="#section_2" class="btn custom-btn smoothscroll me-3">Delivery</a>
+
+                            <a href="#section_3" class="link link--kale smoothscroll"> Peça agora!</a>
+                        </div>
+
+                        <div class="hero-image-wrap col-lg-6 col-12 mt-3 mt-lg-0">
+                            <img src="images/education-online-books.png" class="hero-image img-fluid" alt="education online books">
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="featured-section">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-8 col-12">
+                            
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="py-lg-5"></section>
+
+
+            <section class="book-section section-padding" id="section_2">
+                <div class="container">
+                    <div class="row">
+
+                        
+
+                        <div class="col-lg-6 col-12">
+                            <div class="book-section-info">
+                               
+
+
+                                <h2 class="mb-4">Nossos produtos</h2>
+
+                                <p> Flores e plantas para decoração. Presentes criativos e personalizados. Cestas de café da manhã e kits especiais. Somos vinculados à maior cooperativa de flores da América Latina, o Veilling Holambra.  </p>
+
+                              
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+
+            <section>
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-12 col-12 text-center">
+                            <h6>&nbsp;</h6>
+
+                            <h2 class="mb-5">Nossa Essência</h2>
+                        </div>
+
+                        <div class="col-lg-4 col-12">
+                            <nav id="navbar-example3" class="h-100 flex-column align-items-stretch">
+                                <nav class="nav nav-pills flex-column">
+                                    <a class="nav-link smoothscroll" href="#item-1">Essência&nbsp;</a>
+
+                                    <a class="nav-link smoothscroll" href="#item-2">Flores para cada ambiente</a>
+
+                                    <a class="nav-link smoothscroll" href="#item-3">Cesta de vafé da manhã</a>
+
+                                    <a class="nav-link smoothscroll" href="#item-4"> Como escolher o presente perfeito</a>
+
+                                    <a class="nav-link smoothscroll" href="#item-5"> Descubra a beleza das flores</a>
+                                </nav>
+                            </nav>
+                        </div>
+
+                        <div class="col-lg-8 col-12">
+                            <div data-bs-spy="scroll" data-bs-target="#navbar-example3" data-bs-smooth-scroll="true" class="scrollspy-example-2" tabindex="0">
+                                <div class="scrollspy-example-item" id="item-1">
+                                    <h5>O afeto floresce aqui:</h5>
+
+                                    <p>&nbsp;</p>
+
+                                    <p><b>Nos arranjos de flores, cultivamos emoções e transmitimos sentimentos capazes de tocar a alma. Cada flor tem sua própria linguaguem e expressa o que as palavras muitas vezes não conseguem.&nbsp;</b></p>
+                                    <p>&nbsp;</p>
+<blockquote class="blockquote">Da nossa família para a sua</blockquote>
+
+                                    <p>Por que o amor está nos pequenos detalhes, o afeto floresce aqui.</p>
+                                </div>
+
+                                <div class="scrollspy-example-item" id="item-2">
+                                    <h5>Flores para cada ambiente</h5>
+
+                                    <p>Flores são uma ótima maneira de trazer cor e vida para qualquer ambiente. Além disso, os arranjos florais podem ser utilizados para criar diferentes atmosferas em diferentes espaços da casa ou escritório. A seguir, vamos compartilhar algumas ideias de como decorar cada ambiente com flores.&nbsp;</p>
+                                  <p>Sala de estar: Um dos espaços mais importantes da casa, onde recebemos amigos e familiares. Para criar um ambiente acolhedor e convidativo, sugerimos um arranjo de flores na mesa de centro ou em uma estante. Para um efeito mais dramático, escolha flores de cores vivas e coloque-as em um vaso de vidro transparente.&nbsp;</p>
+                                    <p>Quarto: As flores podem ajudar a criar um ambiente sereno e calmante. Escolha flores com aromas suaves, como lavanda, jasmim ou rosa, e coloque-as em um vaso na mesa de cabeceira ou em uma prateleira.&nbsp;</p>
+<p>Cozinha: Opte por flores que transmitem uma sensação de frescor e vitalidade como margaridas, cravos ou girassóis, que são resistentes e duram mais tempo. Coloque-as em um vaso na mesa da cozinha ou na janela, para trazer um pouco de cor e vida para o ambiente. Sala de jantar: Um belo arranjo floral pode ser um ponto focal para a decoração. Escolha flores com tons neutros e suaves, como lírios brancos ou rosas cor-de-rosa, e coloque-as em um vaso no centro da mesa.&nbsp;</p>
+                                  <p>Recepção: A recepção de um escritório ou consultório é a primeira impressão que os clientes têm da empresa. Para criar um ambiente agradável e acolhedor, sugerimos um arranjo de flores frescas e vibrantes. Opte por flores como astromélias, tulipas ou lírios, e coloque-as em um vaso na recepção.&nbsp;</p>
+                                    <p>Em resumo, cada ambiente tem suas particularidades e as flores podem ajudar a criar atmosferas únicas em cada um deles. Escolha flores de acordo com o ambiente e a ocasião, e experimente diferentes arranjos para criar uma decoração personalizada e acolhedora.</p>
+<p>&nbsp;</p>
+
+                                    <p>&nbsp;</p>
+
+                                    <div class="row">
+                                        <div class="col-lg-6 col-12 mb-3">
+                                            <img src="images/DeFlorEmFlor_Ambiente1.jpeg" class="scrollspy-example-item-image img-fluid" alt="">
+                                        </div>
+
+                                        <div class="col-lg-6 col-12 mb-3">
+                                            <img src="images/DeFlorEmFlor_Ambiente2.jpeg" class="scrollspy-example-item-image img-fluid" alt="">
+                                        </div>
+                                
+
+                                <div class="scrollspy-example-item" id="item-3">
+                                    <h5>Cesta de café-da-manhã&nbsp; &nbsp;especial dia das mães</h5>
+
+                                    <p>O Dia das Mães está se aproximando e é hora de pensar em uma maneira especial de mostrar todo o seu amor e gratidão por essa pessoa tão importante em sua vida. E o que poderia ser mais especial do que uma deliciosa cesta de café-da-manhã, entregue diretamente em sua casa em Caratinga?&nbsp;</p>
+                                  <p>A De Flor em Flor tem uma seleção incrível de cestas de café-da-manhã, todas cuidadosamente preparadas com os melhores ingredientes e produtos frescos. De opções clássicas com pães, frutas e geleias, até cestas com opções mais elaboradas, como iogurte e queijos, temos algo para todos os gostos e estilos. E o melhor de tudo? Fazemos a entrega diretamente em sua casa, para que você possa surpreender sua mãe com um delicioso café-da-manhã, sem sair de casa.&nbsp;</p>
+                                  <p>E para deixar o presente ainda mais especial, oferecemos diversas opções de arranjos de flores, que podem ser adicionados à cesta de café-da-manhã ou entregues separadamente. Temos uma grande variedade de flores e plantas, para todos os gostos e orçamentos, e nossa equipe de especialistas está pronta para ajudá-lo a escolher a opção perfeita para sua mãe.&nbsp;</p>
+                                  <p>Não perca tempo! Encomende agora a sua cesta arranjo de flores para o Dia das Mães, e faça desse dia um momento inesquecível para a pessoa que sempre cuidou de você com tanto amor e dedicação.&nbsp;</p>
+                                  <p>Ligue para a De Flor em Flor ou faça o pedido diretamente em nosso site, e deixe-nos cuidar do resto.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+                                  <p>&nbsp;</p>
+
+                                    <div class="row align-items-center">
+                                      <div class="col-lg-6 col-12">
+                                            <img src="images/tablet-screen-contents.jpg" class="img-fluid" alt="">
+                                      </div>
+
+                                        <div class="col-lg-6 col-12">
+                                            <p>&nbsp;</p>
+
+                                            <p><strong>Entrega garantida em Caratinga e região, para que você possa relaxar e aproveitar o dia com sua mãe.</strong></p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="scrollspy-example-item" id="item-4">
+                                    <h5>Como escolher o presente perfeito</h5>
+
+                                    <p>1. Conheça a personalidade da pessoa: Antes de escolher o presente, é importante considerar a personalidade da pessoa. Ela é mais discreta ou extravagante? Gosta de coisas clássicas ou modernas? Essas informações podem ajudar a guiar a escolha do presente.</p>
+                                  <p>2.&nbsp;Considere os interesses da pessoa: Pense nos hobbies e interesses da pessoa. Ela gosta de cozinhar? Viajar? Ler? Essas informações podem ajudar a escolher um presente que esteja alinhado com seus gostos e hobbies.</p>
+                                    <p>3. Observe as dicas da própria pessoa: Preste atenção nas conversas e nas redes sociais da pessoa. Ela já mencionou algo que gostaria de ter ou de fazer? Essas dicas podem ser valiosas na hora de escolher o presente ideal.&nbsp;</p>
+<p>&nbsp;Em resumo, escolher o presente perfeito requer um pouco de atenção e dedicação, mas seguindo algumas dicas simples é possível acertar em cheio e surpreender a pessoa presenteada. Conheça a personalidade da pessoa, considere seus interesses, observe suas dicas, personalize o presente e leve em conta a ocasião.</p>
+
+                                    <p>&nbsp;</p>
+
+                                    <img src="images/DeFlorEmFlor_Presente.jpeg" class="scrollspy-example-item-image img-fluid mb-3" alt="">
+
+                                  <p>Com essas informações em mente, você estará pronto para escolher o presente ideal.</p>
+                                </div>
+
+                                <div class="scrollspy-example-item" id="item-5">
+                                    <h5>Descubra a beleza das flores</h5>
+
+                                    <p>Não é à toa que flores são usadas em tantas ocasiões, desde presentear alguém em um aniversário até decorar casamentos e outros eventos especiais.</p>
+                                  <p>&nbsp;Mas você sabia que existem muitas variedades diferentes de flores e que cada uma delas tem suas próprias características únicas? Algumas das flores mais populares incluem as rosas, lírios, tulipas e margaridas. Cada uma delas tem uma aparência diferente, com pétalas que podem variar em cor, tamanho e textura. Algumas são perfumadas, enquanto outras têm um aroma mais sutil ou quase inexistente.&nbsp;</p>
+                                  <p>Além disso, cada tipo de flor tem um significado especial, que pode ser usado para transmitir uma mensagem ou emoção específica. Mas escolher as flores certas não é o único aspecto importante na criação de um belo arranjo floral. A escolha das cores também é crucial. Cores vivas, como vermelho, laranja e amarelo, são ideais para expressar sentimentos de amor, amizade e alegria. Já as cores mais suaves, como rosa, lilás e azul, são perfeitas para ocasiões mais delicadas, como casamentos ou nascimentos.&nbsp;</p>
+                                  <p>Arranjos florais podem ser combinados com outros elementos, como velas, frutas e até mesmo doces, para criar um efeito ainda mais impressionante. Se você está procurando um arranjo floral para um evento especial ou para presentear alguém querido, não hesite em entrar em contato conosco.&nbsp;</p>
+                                    <p>Na De Flor em Flor, temos uma grande variedade de flores e arranjos disponíveis para atender a todas as suas necessidades.</p>
+<p>&nbsp;</p>
+
+                                    <p><strong>&nbsp;</strong></p>
+
+                                    <blockquote class="blockquote">Nossa equipe de especialistas em flores pode ajudá-lo a escolher as melhores flores e cores para a ocasião, garantindo que você tenha um arranjo impressionante e inesquecível.</blockquote>
+
+                                    <p>&nbsp;</p>
+                              </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="author-section section-padding" id="section_3">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-6 col-12">
+                            <img src="images/DeFlorEmFlor_Familia.jpeg" class="author-image" alt="">
+                        </div>
+
+                        <div class="col-lg-6 col-12 mt-5 mt-lg-0">
+                            <h6>&nbsp;</h6>
+                          <h6>&nbsp;</h6>
+                            <h6>De Flor Em Flor</h6>
+<h2 class="mb-4">Quem somos?</h2>
+
+                            <p>Somos uma floricultura familiar especializada em semear o afeto através das nossas flores, por um atendimento humanizado e personalização dos pedidos.&nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+                            <p>&nbsp;</p>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="reviews-section section-padding" id="section_4">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-12 col-12 text-center mb-5">
+                            <h6>&nbsp;</h6>
+
+                            <h2>Presentes</h2>
+                        </div>
+
+                        <div class="col-lg-4 col-12">
+                            <div class="custom-block d-flex flex-wrap">
+                                <div class="custom-block-image-wrap d-flex flex-column">
+                                    <img src="images/avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg" class="img-fluid avatar-image" alt="">
+
+                                    <div class="text-center mt-3">
+                                        <span class="text-white">Orquídeas&nbsp;</span>
+
+                                        <strong class="d-block text-white">&nbsp;</strong>
+                                    </div>
+                                </div>
+
+                              <div class="custom-block-info">
+                                    <div class="reviews-group mb-3">
+                                        <strong>5&nbsp;</strong>
+
+                                        <i class="bi-star-fill"></i>
+                                        <i class="bi-star-fill"></i>
+                                        <i class="bi-star-fill"></i>
+                                        <i class="bi-star-fill"></i>
+                                        <i class="bi-star-fill"></i>
+                                  </div>
+															  
+
+                                  <p class="mb-0">As orquídeas são ótimas opções de presentes, pois além de sua beleza exótica e durabilidade, elas também simbolizam amor, beleza, luxo e refinamento.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-12 my-5 my-lg-0">
+                            <div class="custom-block d-flex flex-wrap">
+                                <div class="custom-block-image-wrap d-flex flex-column">
+                                    <img src="images/avatar/portrait-young-redhead-bearded-male.jpg" class="img-fluid avatar-image avatar-image-left" alt="">
+
+                                    <div class="text-center mt-3">
+                                        <span class="text-white">Flower Box&nbsp;</span>
+
+                                        <strong class="d-block text-white">&nbsp;</strong>
+                                    </div>
+                                </div>
+
+                              <div class="custom-block-info">
+                                    <div class="reviews-group mb-3">
+                                        <strong>5</strong>
+
+                                        <i class="bi-star-fill"></i>
+                                        <i class="bi-star-fill"></i>
+                                        <i class="bi-star-fill"></i>
+                                        <i class="bi-star-fill"></i>
+                                        <i class="bi-star-fill"></i>
+                                    </div>
+
+                                <p class="mb-0">Com elementos variados, é nossa opção de presente que permite você escolher e montar o seu kit com a sua cara.&nbsp; &nbsp;</p>
+                                <p class="mb-0">&nbsp;</p>
+                                <p class="mb-0">&nbsp;</p>
+                              </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-12">
+                            <div class="custom-block d-flex flex-wrap">
+                                <div class="custom-block-image-wrap d-flex flex-column">
+                                    <img src="images/avatar/pretty-blonde-woman.jpg" class="img-fluid avatar-image" alt="">
+
+                                    <div class="text-center mt-3">
+                                        <span class="text-white">Cone de Flores&nbsp;</span>
+
+                                        <strong class="d-block text-white">&nbsp;</strong>
+                                    </div>
+                                </div>
+
+                              <div class="custom-block-info">
+                                <div class="reviews-group mb-3">
+                                        <strong>5</strong>
+
+                                        <i class="bi-star-fill"></i>
+                                        <i class="bi-star-fill"></i>
+                                        <i class="bi-star-fill"></i>
+                                        <i class="bi-star-fill"></i>
+                                        <i class="bi-star-fill"></i>
+                                  </div>
+
+                                <p class="mb-0">Uma opção descolada com flores&nbsp; exclusivas e frases&nbsp; personalizadas&nbsp; para compôr o&nbsp; seu cone.&nbsp;</p>
+                                <p class="mb-0">&nbsp;</p>
+                                <p class="mb-0">&nbsp;</p>
+<p class="mb-0">&nbsp;</p>
+                              </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="contact-section section-padding" id="section_5">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-5 col-12 mx-auto">
+                            <form class="custom-form ebook-download-form bg-white shadow" action="#" method="post" role="form">
+                                <div class="text-center mb-5">
+                                    <h2 class="mb-1">Faça seu cadastro</h2>
+                                </div>
+
+                                <div class="ebook-download-form-body">
+                                    <div class="input-group mb-4">
+                                        <input type="text" name="ebook-form-name" id="ebook-form-name" class="form-control" aria-label="ebook-form-name" aria-describedby="basic-addon1" placeholder="Seu Nome" required>
+
+                                        <span class="input-group-text" id="basic-addon1">
+                                            <i class="custom-form-icon bi-person"></i>
+                                        </span>
+                                    </div>
+
+                                    <div class="input-group mb-4">
+                                        <input type="email" name="ebook-email" id="ebook-email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="seu e-mail@" aria-label="ebook-form-email" aria-describedby="basic-addon2" required="">
+
+                                        <span class="input-group-text" id="basic-addon2">
+                                            <i class="custom-form-icon bi-envelope"></i>
+                                        </span>
+                                    </div>
+
+                                    <div class="col-lg-8 col-md-10 col-8 mx-auto">
+                                        <button type="submit" class="form-control">Download ebook</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+
+                        <div class="col-lg-6 col-12">
+                            <h6 class="mt-5">&nbsp;</h6>
+
+                            <h2 class="mb-4">Entre em contato</h2>
+
+                            <p class="mb-3">
+                                <i class="bi-geo-alt me-2"></i>
+                              Caratinga, MINAS GERAIS
+                          </p>
+
+                            <p class="mb-2">
+                                <a href="tel: 010-020-0340" class="contact-link">
+                                33 987501351
+                            </a>
+                            </p>
+
+                            <p>
+                                <a href="mailto:info@company.com" class="contact-link">
+                                defloremflor@gmail.com
+                            </a>
+                            </p>
+
+                            <h6 class="site-footer-title mt-5 mb-3">Social</h6>
+
+                          <ul class="social-icon mb-4">
+                                <li class="social-icon-item">
+                                    <a href="#" class="social-icon-link bi-instagram"></a>
+                                </li>
+
+                                <li class="social-icon-item">
+                                    <a href="#" class="social-icon-link bi-twitter"></a>
+                                </li>
+                                
+                                <li class="social-icon-item">
+                                    <a href="#" class="social-icon-link bi-facebook"></a>
+                                </li>
+
+                                <li class="social-icon-item">
+                                    <a href="#" class="social-icon-link bi-whatsapp"></a>
+                                </li>
+                            </ul>
+
+                            <p class="copyright-text">Copyright © 2048 ebook company
+                            <br><br><a rel="nofollow" href="https://templatemo.com" target="_blank">designed by gp 01</a></p>
+                      </div>
+
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- JAVASCRIPT FILES -->
+        <script src="js/jquery.min.js"></script>
+        <script src="js/bootstrap.bundle.min.js"></script>
+        <script src="js/jquery.sticky.js"></script>
+        <script src="js/click-scroll.js"></script>
+        <script src="js/custom.js"></script>
+
+    </body>
+</html>
