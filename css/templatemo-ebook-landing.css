@@ -606,7 +606,7 @@ strong {
 }
 
 .featured-section::after {
-  content: "";
+
   position: absolute;
   bottom: 0;
   right: 0;
